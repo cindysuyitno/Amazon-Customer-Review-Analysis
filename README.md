@@ -1,3 +1,3 @@
 # Amazon-Customer-Review-Analysis
 
-Database from: https://s3.amazonaws.com/amazon-reviews-pds/readme.html
+Database from: https://data.world/datafiniti/consumer-reviews-of-amazon-products
