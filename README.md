@@ -15,4 +15,4 @@ Python (NumPy, pandas, sklearn, matplotlib, seaborn, re, wordcloud), Google Cola
 ![alt text](https://github.com/cindysuyitno/Amazon-Customer-Review-Analysis/blob/main/Cluster%20illustration.png)
 
 # Conclusion and Comments
-Amazon has amazing products with the most reviews on high points (4-5). Moreover, from the reviews inputted by their customer, the K-means clustering model shows that most high-reviewed products come from friendly usage kids products, which should be maintained by the company via stock and quality control.
+Amazon has amazing products with the most reviews on high points (4-5). Moreover, from the reviews inputted by their customer, the K-means clustering model shows that most high-reviewed products come from friendly usage kids products, which should be maintained by the company via stock and quality control. 
